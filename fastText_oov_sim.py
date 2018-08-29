@@ -27,7 +27,6 @@ def oov(inword):
 	print(inword)
 	print(model.similar_by_vector(npvec))
 
-
 def _start_shell(local_ns=None):
 	# An interactive shell is useful for debugging/development.
 	import IPython
