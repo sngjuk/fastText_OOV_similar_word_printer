@@ -13,5 +13,6 @@ bicycle
 
 ```
 Requirements : <br>
+- fastText <br>
 - Gensim <br>
 <br>
