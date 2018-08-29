@@ -1,5 +1,5 @@
 # fastText_OOV_similar_word_printer
-Used to check model's inference performance by entering OOV and seeing similar words. <br>
+Used to check model's inference performance by entering OOV(Out of vocabulary) and seeing similar words. <br>
 Note : It needs be in the same dir with fasttext execution file. & It takes some time to load model loading (~3 min)
 ```
 python fast_oov_sim.py [model.bin] [embedding_vector.vec]
