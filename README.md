@@ -12,8 +12,9 @@ bicycle
 ... ]
 In [2]: oov('cat')
 cat
-[('bobcat', 0.9520692639593045), (... ]
-
+[('bobcat', 0.9520692639593045), ('kitty', 0.8094838587174623), ('ocelot', 0.7957078462194628), 
+...
+... ]
 ```
 Requirements : <br>
 - fastText <br>
